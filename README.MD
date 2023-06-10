@@ -18,7 +18,7 @@ Create a database in your local server with a name blood_bank.
 import the .db file present in the database folder.
 
 #### 3.run the application
-if you are running the project locally, the project folder should be placed in the directory that the Apache web server looks for files to serve on your domain by default. Most probably the `htdocs` folder. After that run the application just by using the url `localhost/blood-bank`.
+if you are running the project locally, the project folder should be placed in the directory that the Apache web server looks for files to serve on your domain by default. Most probably the `htdocs` folder. After that run the application just by using the url `localhost/BloodBank-Management-System`.
 
 
 ### Languages
